@@ -1,2 +1,2 @@
 # Mini-Weather-App
-Build a Weather App using HTML, CSS, JS, JSON &amp; API. Features: • Search city • Show temperature • Show weather description • Use OpenWeather API
+A Mini Weather App that fetches real-time weather data from a weather API based on city name input. Displays current temperature, weather conditions, humidity, and wind speed with dynamic icons and a clean user interface.
